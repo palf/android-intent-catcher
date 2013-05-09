@@ -2,3 +2,5 @@
 local.properties
 bin
 gen
+automation/test_servers
+

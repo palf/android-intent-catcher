@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'calabash-android'
+gem 'json'
+gem 'randroid'
