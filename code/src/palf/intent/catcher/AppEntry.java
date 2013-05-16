@@ -31,10 +31,6 @@ public class AppEntry extends Activity {
 			message = "no data sent with intent (or an exception occurred!)";
 		}
 
-    String xbmcURL = "http://192.168.1.74:3000/control?action=play&pid=b01r5mbc";
-    // int response = HttpRequest.get(xbmcURL).code();
-    // String code = Integer.toString(response);
-
 		TextView textView = new TextView(this);
 		textView.setText(message);
 
